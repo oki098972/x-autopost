@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>X Auto Post</title>
+    <link>https://oki098972.github.io/x-auto-post/</link>
+    <description>Automatic X posts</description>
+
+    <item>
+      <title>テスト投稿</title>
+      <description>これはテスト投稿です。</description>
+      <pubDate>Mon, 06 Oct 2026 01:00:00 +0900</pubDate>
+      <guid>20261006010000</guid>
+    </item>
+
+  </channel>
+</rss>
