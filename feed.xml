@@ -6,13 +6,13 @@
     <description>Automatic X posts</description>
 
     <item>
-      <title>X post 20261006121551</title>
+      <title>X post 20261006152818</title>
       <description>これはPNG付きのテスト投稿です。</description>
-      <pubDate>Tue, 06 Oct 2026 12:15:51 +0900</pubDate>
-      <guid isPermaLink="false">20261006121551</guid>
+      <pubDate>Tue, 06 Oct 2026 15:28:18 +0900</pubDate>
+      <guid isPermaLink="false">20261006152818</guid>
       <enclosure
-        url="https://oki098972.github.io/x-autopost/20261006121551_test.png"
-        type="image/png"
+        url="https://oki098972.github.io/x-autopost/20261006152818_test.mp4"
+        type="video/mp4"
       />
     </item>
 
