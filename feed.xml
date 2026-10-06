@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>X Auto Post</title>
-    <link>https://oki098972.github.io/x-autopost/</link>
-    <description>Automatic X posts</description>
+<channel>
+<title>X Auto Post</title>
+<link>https://oki098972.github.io/x-autopost</link>
+<description>X Auto Post Feed</description>
 
-    <item>
-      <title>X post 20261006171803</title>
-      <description>これはPNG付きのテスト投稿です。</description>
-      <pubDate>Tue, 06 Oct 2026 17:18:03 +0900</pubDate>
-      <guid isPermaLink="false">20261006171803</guid>
-      <enclosure
-        url="https://oki098972.github.io/x-autopost/20261006171803_test.mp4"
-        type="video/mp4"
-      />
-    </item>
+<item>
+<title>X post</title>
+<description>4枚画像テスト</description>
+<pubDate>Tue, 06 Oct 2026 21:35:16 +0900</pubDate>
+<guid isPermaLink="false">20261006213516</guid>
 
-  </channel>
+<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO1.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO2.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO3.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO4.png" type="image/png" />
+
+</item>
+</channel>
 </rss>
