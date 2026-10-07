@@ -6,16 +6,28 @@
 <description>X Auto Post Feed</description>
 <item>
 <title>X post</title>
-<description>文字のみ</description>
-<pubDate>Wed, 07 Oct 2026 16:31:15 +0900</pubDate>
-<guid isPermaLink="false">20261007163115</guid>
+<description>文字のみ3</description>
+<pubDate>Wed, 07 Oct 2026 17:11:18 +0900</pubDate>
+<guid isPermaLink="false">20261007171118</guid>
 </item>
 <item>
 <title>X post</title>
-<description>文字のみ＋画像１枚</description>
-<pubDate>Wed, 07 Oct 2026 16:37:25 +0900</pubDate>
-<guid isPermaLink="false">20261007163725</guid>
-<enclosure url="https://oki098972.github.io/x-autopost/20261007163725_20261006171351_test.png" type="image/png" />
+<description>文字のみ2</description>
+<pubDate>Wed, 07 Oct 2026 17:11:13 +0900</pubDate>
+<guid isPermaLink="false">20261007171113</guid>
+</item>
+<item>
+<title>X post</title>
+<description>文字のみ1</description>
+<pubDate>Wed, 07 Oct 2026 17:11:07 +0900</pubDate>
+<guid isPermaLink="false">20261007171107</guid>
+</item>
+<item>
+<title>X post</title>
+<description>文字のみ＋動画１枚</description>
+<pubDate>Wed, 07 Oct 2026 16:42:30 +0900</pubDate>
+<guid isPermaLink="false">20261007164230</guid>
+<enclosure url="https://oki098972.github.io/x-autopost/20261007164230_20261006152818_test.mp4" type="video/mp4" />
 </item>
 <item>
 <title>X post</title>
@@ -29,28 +41,16 @@
 </item>
 <item>
 <title>X post</title>
-<description>文字のみ＋動画１枚</description>
-<pubDate>Wed, 07 Oct 2026 16:42:30 +0900</pubDate>
-<guid isPermaLink="false">20261007164230</guid>
-<enclosure url="https://oki098972.github.io/x-autopost/20261007164230_20261006152818_test.mp4" type="video/mp4" />
+<description>文字のみ＋画像１枚</description>
+<pubDate>Wed, 07 Oct 2026 16:37:25 +0900</pubDate>
+<guid isPermaLink="false">20261007163725</guid>
+<enclosure url="https://oki098972.github.io/x-autopost/20261007163725_20261006171351_test.png" type="image/png" />
 </item>
 <item>
 <title>X post</title>
-<description>文字のみ1</description>
-<pubDate>Wed, 07 Oct 2026 17:11:07 +0900</pubDate>
-<guid isPermaLink="false">20261007171107</guid>
-</item>
-<item>
-<title>X post</title>
-<description>文字のみ2</description>
-<pubDate>Wed, 07 Oct 2026 17:11:13 +0900</pubDate>
-<guid isPermaLink="false">20261007171113</guid>
-</item>
-<item>
-<title>X post</title>
-<description>文字のみ3</description>
-<pubDate>Wed, 07 Oct 2026 17:11:18 +0900</pubDate>
-<guid isPermaLink="false">20261007171118</guid>
+<description>文字のみ</description>
+<pubDate>Wed, 07 Oct 2026 16:31:15 +0900</pubDate>
+<guid isPermaLink="false">20261007163115</guid>
 </item>
 </channel>
 </rss>
