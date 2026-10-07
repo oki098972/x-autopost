@@ -7,10 +7,13 @@
 
 <item>
 <title>X post</title>
-<description>てすと画像1枚</description>
-<pubDate>Wed, 07 Oct 2026 14:50:22 +0900</pubDate>
-<guid isPermaLink="false">20261007145022</guid>
-<enclosure url="https://oki098972.github.io/x-autopost/20261007145022_NO1.png" type="image/png" />
+<description>てすと画像4枚</description>
+<pubDate>Wed, 07 Oct 2026 14:53:35 +0900</pubDate>
+<guid isPermaLink="false">20261007145335</guid>
+<enclosure url="https://oki098972.github.io/x-autopost/20261007145335_NO1.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261007145335_NO2.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261007145335_NO3.png" type="image/png" />
+<enclosure url="https://oki098972.github.io/x-autopost/20261007145335_NO4.png" type="image/png" />
 </item>
 </channel>
 </rss>
