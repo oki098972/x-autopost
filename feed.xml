@@ -7,15 +7,9 @@
 
 <item>
 <title>X post</title>
-<description>4枚画像テスト</description>
-<pubDate>Tue, 06 Oct 2026 21:35:16 +0900</pubDate>
-<guid isPermaLink="false">20261006213516</guid>
-
-<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO1.png" type="image/png" />
-<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO2.png" type="image/png" />
-<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO3.png" type="image/png" />
-<enclosure url="https://oki098972.github.io/x-autopost/20261006213516_NO4.png" type="image/png" />
-
+<description>本文のみ</description>
+<pubDate>Wed, 07 Oct 2026 12:23:39 +0900</pubDate>
+<guid isPermaLink="false">20261007122339</guid>
 </item>
 </channel>
 </rss>
